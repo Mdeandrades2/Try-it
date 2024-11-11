@@ -2,7 +2,7 @@
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 # More info on Python, GitHub Actions, and Azure App Service: https://aka.ms/python-webapps-actions
 
-name: Build and deploy Python app to Azure Web App - tastyflavorfusion
+name: Build and deploy Python app to Azure Web App - tryit
 
 on:
   push:
@@ -65,6 +65,6 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'tastyflavorfusion'
+          app-name: 'app_tryit'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A835992A07414C6C9CD2F0BE99DBF362 }}
