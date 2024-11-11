@@ -1,8 +1,7 @@
 from django.urls import path
-from recipe import views
+from app_tryit import views
 from django.contrib.auth.views import LogoutView
 from django.contrib.auth.decorators import login_required
-
 
 urlpatterns = [
     path('', views.login_usuario, name='login'),

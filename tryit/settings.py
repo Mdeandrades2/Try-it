@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # nossos apps
     'whitenoise',
-    'recipe',
+    'app_tryit',
     
 ]
 
@@ -54,7 +54,7 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
-ROOT_URLCONF = 'Tasty.urls'
+ROOT_URLCONF = 'tryit.urls'
 
 TEMPLATES = [
     {
@@ -74,7 +74,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Tasty.wsgi.application'
+WSGI_APPLICATION = 'tryit.wsgi.application'
 
 
 # Database
@@ -131,7 +131,7 @@ CSRF_COOKIE_SECURE = True
 STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 STATIC_URL = '/static/'
 STATICFILES_DIRS = (
-   ('recipe', os.path.join(BASE_DIR, 'recipe', 'static')),
+    ('app_tryit', os.path.join(BASE_DIR, 'app_tryit', 'static')),
 )
 STATICFILES_FINDERS = (
   'django.contrib.staticfiles.finders.FileSystemFinder',

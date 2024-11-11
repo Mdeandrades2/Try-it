@@ -1,16 +1,15 @@
 
-https://github.com/gabrielrroma/Tasty-FDS/assets/137455847/9b6eb031-2e66-4984-88ae-855f82b7ed32
-NOME DO GRUPO: Tasty.
+NOME DO GRUPO: Try-it.
 
 Integrantes do grupo :
 
-* Rubens Filho (rscf@cesar.school)
+* Miguel Arcanjo (maha@cesar.school) 
 
-* Gabriel Roma (grr@cesar.school) 
+* Luis Felipe Furlaneto (lffl@cesar.school) 
 
 * Miguel Andrade (Mjfa@cesar.school)
 
-* Gabriel Correia (gcp@cesar.school)
+* Juliana Mota (jvdlm@cesar.school)
 
 * Mariana Correia (mmbc@cesar.school)
 
@@ -18,12 +17,11 @@ Tema do projeto: Receitas Personalizadas
 
 LINKS :
 
-## Jira: https://flavorfusion.atlassian.net/jira/software/projects/HIS/boards/1/backlog?selectedIssue=HIS-3
+## Jira: 
 
 ## Link do Site : [tastyflavorfusion.azurewebsites.net](https://tastyflavorfusion.azurewebsites.net/)
 
-# Link do Figma: https://www.figma.com/file/X3NG8no4J4LQSQNhpq3sOj/Flavor-Fusion?type=design&node-id=575-272&mode=design&t=mmoTmRqmEW5qfQgi-0
-
+# Link do Figma: 
 ## Descrição do projeto:
 
 O projeto se constitui em um Aplicativo de Receitas Personalizadas.
