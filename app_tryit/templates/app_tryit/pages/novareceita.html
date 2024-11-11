@@ -1,7 +1,7 @@
 {% load static %}
-{% include 'recipe/partials/head.html' %}
+{% include 'app_tryit/partials/head.html' %}
 <body>
-    {% include 'recipe/partials/navbar.html'%}
+    {% include 'app_tryit/partials/navbar.html'%}
     <div class="novareceita-container">
         <h1>Criar Nova Receita</h1>
         <form action="{% url 'novareceita' %}" method="post">
