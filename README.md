@@ -11,7 +11,7 @@ Integrantes do grupo :
 
 * Juliana Mota (jvdlm@cesar.school)
 
-* Mariana Correia (mmbc@cesar.school)
+* Pedro (@cesar.school)
 
 Tema do projeto: Receitas Personalizadas
 
