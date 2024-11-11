@@ -37,4 +37,4 @@ Ative o ambiente virtual com :
 5.Instalação de Dependências:
   
 Instale as dependências necessárias:
-pip install -r Tasty-FDS/requirements.txt
+pip install -r Try-it/requirements.txt
