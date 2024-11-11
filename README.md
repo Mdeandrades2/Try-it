@@ -11,7 +11,7 @@ Integrantes do grupo :
 
 * Juliana Mota (jvdlm@cesar.school)
 
-* Mariana Correia (mmbc@cesar.school)
+* Pedro (@cesar.school)
 
 Tema do projeto: Receitas Personalizadas
 
@@ -160,7 +160,8 @@ https://github.com/gabrielrroma/Tasty-FDS/assets/137455847/e7fac63d-1737-48f7-b5
 - Testes de Sistema (E2E) Automatizados
 
 
+https://github.com/user-attachments/assets/486aa0fb-91a1-4cac-b9b1-d3d2620bc518
 
-https://github.com/gabrielrroma/Tasty-FDS/assets/137455847/b25402ad-5188-45fc-a45c-8f90d006f4f2
+
 
 
