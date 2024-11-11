@@ -1,0 +1,28 @@
+{% load static %}
+{% include 'recipe/partials/head.html' %}
+<body>
+    {% include 'recipe/partials/navbar.html'%}
+    <div class="novareceita-container">
+        <h1>Criar Nova Receita</h1>
+        <form action="{% url 'novareceita' %}" method="post">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="nome">Nome da Receita:</label>
+                <input type="text" id="nome" name="nome" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="ingredientes">Ingredientes:</label>
+                <textarea id="ingredientes" name="ingredientes" class="form-control" placeholder="Digite os ingredientes, um por linha." required></textarea>
+            </div>
+            <div class="botoes-novareceita-container">
+                <div class="botao1">
+                    <button type="submit" class="btn btn-primary">Criar Receita</button>
+                </div>
+                <div class="botao2">
+                    <a href="{% url 'filtrarreceita' %}" class="btn btn-secondary">Cancelar</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

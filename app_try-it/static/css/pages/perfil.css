@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+  .perfil-main-container {
+    display: flex; /* Torna o corpo um contêiner flexível */
+    align-items: center; /* Centraliza verticalmente os itens do contêiner flexível */
+    justify-content: center; /* Centraliza horizontalmente os itens do contêiner flexível */
+    margin: 0 auto;
+    position: relative;       /* Define a posição do contêiner como relativa */
+    margin-top: 25px;
+  }
+  .perfil-container {
+    max-width: 700px;         /* Define a largura máxima do contêiner */
+    width: 100%;              /* Define a largura total do contêiner */
+    background: #fff;         /* Define o plano de fundo do contêiner */
+    padding: 25px;            /* Adiciona preenchimento interno ao contêiner */
+    border-radius: 8px;       /* Define o raio das bordas do contêiner */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave ao contêiner */
+    
+  }
+  
+  .perfil-container header {
+    font-size: 1.5rem;        /* Define o tamanho da fonte do cabeçalho */
+    color: #262E3A;              /* Define a cor do texto do cabeçalho */
+    font-weight: 500;         /* Define o peso da fonte do cabeçalho */
+    text-align: center;       /* Centraliza o texto do cabeçalho */
+  }
+  
+  .perfil-container .perfil-form {
+    margin-top: 30px;         /* Adiciona margem superior ao formulário */
+  }
+  
+  .perfil-form .perfil-input-box {
+    width: 100%;              /* Define a largura total da caixa de entrada */
+    margin-top: 20px;         /* Adiciona margem superior à caixa de entrada */
+  }
+  
+  .perfil-input-box label {
+    color: #262E3A;              /* Define a cor do texto do rótulo da caixa de entrada */
+  }
+  
+  /* Estilos para campos de entrada de texto e seleção */
+  .perfil-form :where(.perfil-input-box input, .perfil-select-box) {
+    position: relative;       /* Define a posição como relativa */
+    height: 50px;             /* Define a altura do campo de entrada */
+    width: 100%;              /* Define a largura total do campo de entrada */
+    outline: none;            /* Remove a borda ao focar */
+    font-size: 1rem;          /* Define o tamanho da fonte */
+    color: #262E3A;           /* Define a cor do texto */
+    margin-top: 8px;          /* Adiciona margem superior */
+    border: 1px solid #ddd;   /* Adiciona uma borda */
+    border-radius: 6px;       /* Define o raio das bordas */
+    padding: 0 15px;          /* Adiciona preenchimento interno */
+  }
+  
+  .perfil-input-box input:focus {
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1); /* Adiciona uma sombra ao focar */
+  }
+  
+  .perfil-form .perfil-column1,
+  .perfil-form .perfil-column2 {
+    display: flex;            /* Define os elementos filhos como flexíveis */
+    column-gap: 15px;         /* Adiciona espaçamento entre colunas */
+  }
+  
+  .perfil-form h3 {
+    padding: 15px;            /* Adiciona preenchimento ao redor do título */
+  }
+  
+  /* Estilos para colunas de seleção de culinária */
+  .perfil-form .perfil-column {
+    display: flex;            /* Define os elementos filhos como flexíveis */
+    column-gap: 15px;         /* Adiciona espaçamento entre colunas */
+  }
+  
+  .perfil-form .perfil-container1 {
+    margin-top: 20px;         /* Adiciona margem superior ao contêiner de seleção de culinária */
+  }
+  
+  .perfil-container1 h3 {
+    color: #262E3A;              /* Define a cor do texto do título */
+    font-size: 1rem;          /* Define o tamanho da fonte do título */
+    font-weight: 400;         /* Define o peso da fonte do título */
+    margin-bottom: 8px;       /* Adiciona margem inferior ao título */
+  }
+  
+  /* Estilos para colunas de seleção de culinária */
+  .perfil-form :where(.perfil-column3, .perfil-column4) {
+    display: flex;            /* Define os elementos filhos como flexíveis */
+    align-items: center;      /* Centraliza verticalmente os elementos */
+    column-gap: 50px;         /* Adiciona espaçamento entre colunas */
+    flex-wrap: wrap;          /* Permite que as colunas quebrem para a próxima linha */
+  }
+  
+  .perfil-form .perfil-column3 {
+    column-gap: 5px;          /* Adiciona espaçamento entre colunas */
+  }
+  
+  .perfil-form .perfil-column4 {
+    column-gap: 5px;          /* Adiciona espaçamento entre colunas */
+  }
+  
+  .perfil-container1 input {
+    accent-color: #51AB9F; /* Define a cor do destaque do campo de entrada */
+  }
+  
+  .perfil-form :where(.perfil-container1 input, .perfil-container1 label) {
+    cursor: pointer;          /* Altera o cursor ao passar o mouse sobre os campos de entrada e rótulos */
+  }
+  
+  .perfil-botao {
+    display: inline-block;    /* Coloca os botões lado a lado horizontalmente */
+    margin: 10px;             /* Espaçamento entre os botões (ajuste conforme necessário) */
+    padding: 20px;            /* Adiciona preenchimento interno aos botões */
+  }
+  
+  .perfil-botao a {
+    text-decoration: none;    /* Remove sublinhado dos links */
+    padding: 10px 20px;       /* Espaçamento interno dos botões (ajuste conforme necessário) */
+    background-color: #c5ced8; /* Cor de fundo do botão (ajuste conforme necessário) */
+    color: #000000;           /* Cor do texto do botão (ajuste conforme necessário) */
+    border-radius: 5px;       /* Borda arredondada (ajuste conforme necessário) */
+  }
+  
+  /* Estilos de hover para os botões */
+  .perfil-botao a:hover {
+    background: #51AB9F; /* Altera a cor de fundo ao passar o mouse */
+  }
+  
+  .perfil-button:hover {
+      background-color: #51AB9F;
+  } 

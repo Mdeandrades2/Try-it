@@ -1,0 +1,35 @@
+{% load static %}
+{% include 'recipe/partials/head.html' %}
+<body>
+    {% include 'recipe/partials/navbar.html'%}
+    <div class="hist-recipe-container">
+        <div class="hist-recipe">
+            <img src={% static 'img/bolo-de-cholate.png'%} alt="Receita 1">
+            <div class="hist-recipe-info">
+                <p class="hist-recipe-title">Bolo de Chocolate</p>
+                <div class="hist-star-rating">
+                    <label></label>
+                    <label></label>
+                    <label></label>
+                    <label></label>
+                    <label></label>
+                </div>
+            </div>
+        </div>
+    
+        <div class="hist-recipe">
+            <img src="recipe\migrations\img\Captura de tela 2023-10-30 150042.png" alt="Receita 2">
+            <div class="hist-recipe-info">
+                <p class="hist-recipe-title">Macarrão à carbonara</p>
+                <div class="hist-star-rating">
+                    <label></label>
+                    <label></label>
+                    <label></label>
+                    <label></label>
+                    <label></label>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

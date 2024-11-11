@@ -1,0 +1,16 @@
+{% load static %}
+{% include 'recipe/partials/head.html' %}
+<body>
+  {% include 'recipe/partials/navbar.html' %}
+  <div class="menu-results">
+    <h1>Receitas</h1>
+    <div class="receitas-grid">
+      {% for receita in receitas %}
+        <div class="receita-card">
+          <h3>{{ receita.nome }}</h3>
+          <p>{{ receita.ingredientes }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</body>

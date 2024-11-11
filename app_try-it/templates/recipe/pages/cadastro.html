@@ -1,0 +1,22 @@
+<!-- recipe/templates/recipe/pages/cadastro.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Usuário</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Cadastro de Usuário</h2>
+        <form method="post" action="{% url 'cadastrar_usuario' %}">
+            {% csrf_token %}
+            {{ form_usuario.as_p }}
+            <!-- Adicione campos adicionais se necessário -->
+            <button type="submit" class="btn btn-primary">Cadastrar</button>
+        </form>
+        <br>
+        <a href="{% url 'login' %}">Já tem uma conta? Faça login aqui.</a>
+    </div>
+</body>
+</html>
