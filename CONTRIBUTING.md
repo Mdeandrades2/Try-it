@@ -16,7 +16,7 @@ Configuração :
 
    
 Na sua IDE selecionada abra seu terminal e execute:
-   git clone https://github.com/gabrielrroma/Tasty-FDS/tree/main
+   git clone https://github.com/Mdeandrades2/Try-it.git
 
 2.Abra o Projeto:
   
