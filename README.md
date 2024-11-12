@@ -17,9 +17,9 @@ Tema do projeto: Receitas Personalizadas
 
 LINKS :
 
-## Jira: 
+## Jira: https://cesar-team-a67w2wlr.atlassian.net/jira/software/projects/SCRUM/boards/1
 
-## Link do Site : [tastyflavorfusion.azurewebsites.net](https://tastyflavorfusion.azurewebsites.net/)
+## Link do Site :
 
 # Link do Figma: https://www.figma.com/design/fGgT8ttCgowGLHMB9P2E4d/Try-it?node-id=0-1&node-type=canvas&t=DALwuZFiUNettb84-0
 ## Descrição do projeto:
@@ -93,7 +93,7 @@ https://www.loom.com/share/a68090bf522a4feb898b98f7e41b7ffb
 
 Relatório do uso da programação em Par( Acessível através do e-mail do cesar ):
 
-https://docs.google.com/document/d/1bnFE0RAPLIN7qsWkkAq0Es6nMqWP528qkwwTJ9MaBIs/edit
+(https://docs.google.com/document/d/1hQ8vUFrYOZ86QkNsalVcacURJxoeu9ThiPNUVAaA2x0/edit?tab=t.0)
 
 -Diagrama de atividades do sistema ATUALIZADO :
 
