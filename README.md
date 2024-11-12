@@ -43,7 +43,7 @@ sugestões de receitas.
 avaliações de receitas.
 
 Print do quadro e do backlog (JIRA)
-![image](https://github.com/gabrielrroma/Tasty/assets/94148127/3aee6cbd-e908-414b-bd11-33bbf9c59be0)
+![Captura de tela 2024-11-11 231528](https://github.com/user-attachments/assets/eeadabf5-4065-4cef-bdc6-c7d98c48877b)
 
 Sketches :
 
@@ -82,7 +82,7 @@ Sketches :
 https://www.loom.com/share/a68090bf522a4feb898b98f7e41b7ffb
 
 - Print Sprint 1:
-![Captura de tela 2023-10-02 233409](https://github.com/gabrielrroma/Tasty/assets/111062417/a42e5d88-6277-487c-84bf-dd7d4a78ec7b)
+![Captura de tela 2024-11-11 231733](https://github.com/user-attachments/assets/0739f23f-6016-4091-9e16-279bca17b588)
 
 # Entrega 3 :
 
@@ -92,7 +92,7 @@ Relatório do uso da programação em Par( Acessível através do e-mail do cesa
 
 - Quadro da Sprint 2 atualizado
 
-![Captura de Tela (21)](https://github.com/gabrielrroma/Tasty-FDS/assets/137455847/e3454d75-87ca-4287-8887-ece2506be71f)
+![Captura de tela 2024-11-11 232024](https://github.com/user-attachments/assets/ff47c384-0d85-4bfe-b627-7245d4327558)
 
 - screencast do Figma ATUALIZADO :
 
@@ -118,7 +118,8 @@ https://github.com/gabrielrroma/Tasty-FDS/assets/84236149/f6e745bd-7a90-4358-8e3
 
 Quadro da Sprint 3 atualizado :
 
-![Captura de Tela (54)](https://github.com/gabrielrroma/Tasty-FDS/assets/137455847/5dff8551-d1d7-4dc2-8b24-e7057d1eaf97)
+![Captura de tela 2024-11-11 232205](https://github.com/user-attachments/assets/e76f3f5f-a3e4-4e60-9921-4fa654c3a9d0)
+
 
 - CI/CD com build e Deployment automatizado :
 
