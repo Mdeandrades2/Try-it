@@ -81,11 +81,6 @@ Sketches :
 - screencast :
 https://www.loom.com/share/a68090bf522a4feb898b98f7e41b7ffb
 
-
--Diagrama de atividades do sistema : 
-
-![Diagrama-de-atividades](https://github.com/gabrielrroma/Tasty/assets/80489162/abc5d811-7cb2-489d-b1ca-bde1e9513e76)
-
 - Print Sprint 1:
 ![Captura de tela 2023-10-02 233409](https://github.com/gabrielrroma/Tasty/assets/111062417/a42e5d88-6277-487c-84bf-dd7d4a78ec7b)
 
@@ -94,10 +89,6 @@ https://www.loom.com/share/a68090bf522a4feb898b98f7e41b7ffb
 Relatório do uso da programação em Par( Acessível através do e-mail do cesar ):
 
 (https://docs.google.com/document/d/1hQ8vUFrYOZ86QkNsalVcacURJxoeu9ThiPNUVAaA2x0/edit?tab=t.0)
-
--Diagrama de atividades do sistema ATUALIZADO :
-
-![Diagrama de atividades drawio](https://github.com/gabrielrroma/Tasty-FDS/assets/137455847/cecb00ee-1cd3-4ca8-90d1-25eca99d5e1b)
 
 - Quadro da Sprint 2 atualizado
 
@@ -124,14 +115,6 @@ https://github.com/gabrielrroma/Tasty-FDS/assets/137455847/1ef0a873-0215-4513-8d
 https://github.com/gabrielrroma/Tasty-FDS/assets/84236149/f6e745bd-7a90-4358-8e3f-7a372aaf5bb0
 
 # Entrega 4 + Apresentação Final
-
-- Relatório do uso da programação em Par( Acessível através do e-mail do cesar ):
-
-https://docs.google.com/document/d/1a04j41wabLkFXiM8EEnPOAbj3rLN07ayfIb54iYIOIk/edit?usp=sharing
-
--Diagrama de atividades do sistema ATUALIZADO :
-
-![Diagrama do Tasty](https://github.com/gabrielrroma/Tasty-FDS/assets/137455847/83b49cfb-7709-4ca2-85d4-1e7a7facbcfd)
 
 Quadro da Sprint 3 atualizado :
 
