@@ -11,7 +11,7 @@ Integrantes do grupo :
 
 * Juliana Mota (jvdlm@cesar.school)
 
-* Pedro (@cesar.school)
+* Pedro (pmab@cesar.school)
 
 Tema do projeto: Receitas Personalizadas
 
@@ -21,7 +21,7 @@ LINKS :
 
 ## Link do Site : [tastyflavorfusion.azurewebsites.net](https://tastyflavorfusion.azurewebsites.net/)
 
-# Link do Figma: 
+# Link do Figma: https://www.figma.com/design/fGgT8ttCgowGLHMB9P2E4d/Try-it?node-id=0-1&node-type=canvas&t=DALwuZFiUNettb84-0
 ## Descrição do projeto:
 
 O projeto se constitui em um Aplicativo de Receitas Personalizadas.
